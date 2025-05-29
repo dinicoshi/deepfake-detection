@@ -42,5 +42,5 @@ The project implements two deep learning models to predict the presence of deepf
 
 | Model | AUC Score |
 | --- | --- |
-| ConvLSTM2D | 0.7778 |
-| Transformer | 0.8441 |
+| ConvLSTM2D |  |
+| Transformer |  |
