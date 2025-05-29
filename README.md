@@ -13,11 +13,13 @@ This project leverages a video-based dataset to build models that analyse and pr
 
 ---
 
+```
 project
 ├── preprocessing.ipynb
-├── [README.md](http://readme.md/)
+├── README.md
 ├── xception_convlstm2d.ipynb
 └── xception_transformers.ipynb
+```
 
 # Key Components
 
@@ -42,5 +44,5 @@ The project implements two deep learning models to predict the presence of deepf
 
 | Model | AUC Score |
 | --- | --- |
-| ConvLSTM2D |  |
-| Transformer |  |
+| ConvLSTM2D | 0.7778 |
+| Transformer | 0.8441 |
